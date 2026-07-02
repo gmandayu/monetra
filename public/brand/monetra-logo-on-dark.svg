@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Monetra logo for dark backgrounds</title>
+  <desc id="desc">Light Monetra wordmark and mark intended for dark surfaces.</desc>
+  <g transform="translate(16 16) scale(.40625)">
+    <rect width="512" height="512" rx="116" fill="#f8faf9"/>
+    <path d="M112 354V158c0-26 21-47 47-47 13 0 26 6 35 16l62 70 62-70c9-10 22-16 35-16 26 0 47 21 47 47v78h-70v-60l-48 55c-7 8-16 12-26 12s-19-4-26-12l-48-55v178c0 20-16 36-36 36s-34-16-34-36Z" fill="#064e3b"/>
+    <path d="M245 238h148c29 0 52 23 52 52v89c0 29-23 52-52 52H245c-29 0-52-23-52-52v-89c0-29 23-52 52-52Z" fill="#20a773" stroke="#087f5b" stroke-width="8"/>
+    <path d="M368 302h77v66h-77c-18 0-33-15-33-33s15-33 33-33Z" fill="#064e3b"/>
+    <circle cx="372" cy="335" r="11" fill="#f8faf9"/>
+  </g>
+  <text x="265" y="145" fill="#f8faf9" font-family="Inter, Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="-4">monetra</text>
+  <text x="272" y="184" fill="#a7f3d0" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="2">EVERY TRANSACTION MATTERS.</text>
+</svg>

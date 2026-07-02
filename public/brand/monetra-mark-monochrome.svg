@@ -1,0 +1,22 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 512 512"
+  role="img"
+  aria-labelledby="monetra-monochrome-title monetra-monochrome-description"
+>
+  <title id="monetra-monochrome-title">Monetra monochrome mark</title>
+  <desc id="monetra-monochrome-description">
+    A single-color letter M combined with a wallet.
+  </desc>
+
+  <g fill="#111814">
+    <!-- Simplified M -->
+    <path d="M76 396V142c0-31 25-56 56-56 17 0 32 7 43 20l81 91 81-91c11-13 26-20 43-20 31 0 56 25 56 56v96h-72v-78l-81 91c-7 8-17 13-27 13s-20-5-27-13l-81-91v236c0 20-16 36-36 36s-36-16-36-36Z" />
+
+    <!-- Wallet body -->
+    <path d="M248 235h151c31 0 56 25 56 56v100c0 31-25 56-56 56H248c-31 0-56-25-56-56V291c0-31 25-56 56-56Zm0 32c-13 0-24 11-24 24v100c0 13 11 24 24 24h151c13 0 24-11 24-24v-16h-48c-23 0-42-19-42-42s19-42 42-42h48c0-13-11-24-24-24H248Zm127 56c-6 0-10 4-10 10s4 10 10 10h48v-20h-48Z" />
+
+    <!-- Card or cash behind the wallet -->
+    <path d="M230 235v-20c0-27 18-51 44-58l92-25c25-7 50 12 50 38v65h-32v-65c0-5-5-9-10-8l-92 26c-12 3-20 14-20 27v20h-32Z" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Monetra transparent mark</title>
+  <desc id="desc">The colored Monetra mark on a transparent background.</desc>
+  <path d="M76 396V142c0-31 25-56 56-56 17 0 32 7 43 20l81 91 81-91c11-13 26-20 43-20 31 0 56 25 56 56v96h-72v-78l-81 91c-7 8-17 13-27 13s-20-5-27-13l-81-91v236c0 20-16 36-36 36s-36-16-36-36Z" fill="#064e3b"/>
+  <path d="M248 235h151c31 0 56 25 56 56v100c0 31-25 56-56 56H248c-31 0-56-25-56-56V291c0-31 25-56 56-56Z" fill="#20a773" stroke="#087f5b" stroke-width="10"/>
+  <path d="M230 235v-20c0-27 18-51 44-58l92-25c25-7 50 12 50 38v65" fill="none" stroke="#087f5b" stroke-width="20" stroke-linecap="round"/>
+  <path d="M375 302h80v72h-80c-20 0-36-16-36-36s16-36 36-36Z" fill="#064e3b"/>
+  <circle cx="377" cy="338" r="12" fill="#f8faf9"/>
+</svg>
