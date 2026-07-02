@@ -2,6 +2,15 @@
 
 This directory documents the visual identity of Monetra.
 
+## Guidelines
+
+- [Logo Guideline](./logo-guideline.md)
+- [Icon Guideline](./icon-guideline.md)
+- [Color Guideline](./color-guideline.md)
+- [Typography Guideline](./typography-guideline.md)
+- [Illustration Style](./illustration-style.md)
+- [Screenshot Template](./screenshot-template.md)
+
 ## Logo Concept
 
 The Monetra logo combines two recognizable elements:

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Monetra screenshot template</title>
+  <desc id="desc">A branded frame with placeholders for a feature title and application screenshot.</desc>
+  <defs>
+    <linearGradient id="background" x1="80" y1="40" x2="1520" y2="860">
+      <stop offset="0" stop-color="#f8faf9"/>
+      <stop offset="1" stop-color="#dff5e9"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#064e3b" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#background)"/>
+  <circle cx="1470" cy="70" r="240" fill="#a7f3d0" opacity=".32"/>
+  <circle cx="80" cy="850" r="260" fill="#087f5b" opacity=".08"/>
+
+  <g transform="translate(72 56)">
+    <rect width="58" height="58" rx="15" fill="#064e3b"/>
+    <path d="M12 42V18c0-4 3-7 7-7 2 0 4 1 5 3l5 6 5-6c1-2 3-3 5-3 4 0 7 3 7 7v10h-8v-7l-6 7c-1 1-2 2-3 2s-2-1-3-2l-6-7v21c0 3-2 5-5 5s-3-2-3-5Z" fill="#f8faf9"/>
+    <path d="M29 27h18c4 0 7 3 7 7v8c0 4-3 7-7 7H29c-4 0-7-3-7-7v-8c0-4 3-7 7-7Z" fill="#20a773"/>
+    <text x="76" y="40" fill="#064e3b" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1">monetra</text>
+  </g>
+
+  <text x="72" y="188" fill="#064e3b" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700">Feature title</text>
+  <text x="72" y="232" fill="#52645b" font-family="Inter, Arial, sans-serif" font-size="22">A concise description of the feature shown below.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="280" width="1456" height="548" rx="28" fill="#ffffff"/>
+    <rect x="96" y="304" width="1408" height="500" rx="16" fill="#edf2ef" stroke="#d5dfda" stroke-width="2" stroke-dasharray="12 12"/>
+  </g>
+
+  <text x="800" y="548" text-anchor="middle" fill="#718078" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600">PLACE APPLICATION SCREENSHOT HERE</text>
+  <text x="800" y="588" text-anchor="middle" fill="#8b9992" font-family="Inter, Arial, sans-serif" font-size="18">1408 × 500 px content area</text>
+
+  <g transform="translate(1392 844)">
+    <rect width="136" height="32" rx="16" fill="#064e3b"/>
+    <text x="68" y="22" text-anchor="middle" fill="#f8faf9" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1">PORTFOLIO</text>
+  </g>
+</svg>
